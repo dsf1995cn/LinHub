@@ -1,0 +1,2 @@
+sudo ./rjsupplicant.sh -a 1 -d 0 -n Íø¿¨Ãû³Æ -s internet -u Ñ§ºÅ -p ÃÜÂë
+
