@@ -22,13 +22,15 @@
 - Qt:[qt creater](https://www.qt.io/download-open-source/#section-2)
 - [zeal](https://zealdocs.org/download.html#linux)
 
-###办公工具
+### 办公工具
 
-- [WPS](http://wps-community.org/downloads)
+- 办公套件 [WPS](http://wps-community.org/downloads)
 
--  [Foxit Reader](http://www.foxitsoftware.cn/downloads/)
+- PDF 阅读器 [Foxit Reader](http://www.foxitsoftware.cn/downloads/)
 
-- [Typora](https://typora.io/#linux)	
+- markdown编辑器 [Typora](https://typora.io/#linux)	
+
+- 第三方印象笔记 [NixNote2](https://github.com/baumgarr/nixnote2)
 
   ​
 
