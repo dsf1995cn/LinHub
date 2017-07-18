@@ -3,7 +3,7 @@
 - WebServer: [tomcat](http://tomcat.apache.org/download-90.cgi)
 
 
-- Editor
+- 编辑器
 
   - [VIM](https://github.com/ma6174/vim)
   - [VScode](https://code.visualstudio.com/Download)
@@ -14,13 +14,13 @@
   - [eclipse](https://www.eclipse.org/downloads/eclipse-packages/)
   - [idea](https://www.jetbrains.com/idea/?fromMenu)
 - C# IDE:[rider](https://www.jetbrains.com/rider/?fromMenu)
-- DB:
+- 数据库:
 
   -  [MySQL](https://dev.mysql.com/downloads/mysql/)
   -  [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
   -  [SQL Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-2017)
-- Qt:[qt creater](https://www.qt.io/download-open-source/#section-2)
-- [zeal](https://zealdocs.org/download.html#linux)
+- Qt套件:[qt creater](https://www.qt.io/download-open-source/#section-2)
+- API文档 [zeal](https://zealdocs.org/download.html#linux)
 
 ### 办公工具
 
@@ -30,7 +30,7 @@
 
 - markdown编辑器 [Typora](https://typora.io/#linux)	
 
-- 第三方印象笔记 [NixNote2](https://github.com/baumgarr/nixnote2)
+- 第三方印象笔记 [Nixnote2](https://github.com/baumgarr/nixnote2)
 
   ​
 
