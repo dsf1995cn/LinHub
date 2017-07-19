@@ -1,2 +1,0 @@
-sudo ./rjsupplicant.sh -a 1 -d 0 -n 网卡名称 -s internet -u 学号 -p 密码
-
