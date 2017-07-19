@@ -1,6 +1,6 @@
-## 配置
+### ibus-rime双拼配置
 
-rime配置文件保存在`~/.config/ibus/rime/`目录下，添加文件内容如下：
+将双拼方案保存在`~/.config/ibus/rime/`目录下，并在default.custom.yaml中添加：
 
 ```
 # default.custom.yaml  
