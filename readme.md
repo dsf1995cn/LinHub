@@ -57,3 +57,5 @@
   - sudo add-apt-repository ppa:zeal-developers/ppa
 - Nixnote
   - sudo add-apt-repository ppa:nixnote/nixnote2-daily
+- Libreoffice
+  - sudo add-apt-repository ppa:libreoffice/ppa
