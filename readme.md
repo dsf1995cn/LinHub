@@ -58,4 +58,6 @@
 - Nixnote
   - sudo add-apt-repository ppa:nixnote/nixnote2-daily
 - Libreoffice
-  - sudo add-apt-repository ppa:libreoffice/ppa
+  - sudo add-apt-repository ppa:libreoffice/ppa
+- Elementary
+  - sudo add-apt-repository ppa:elementary-os/daily
