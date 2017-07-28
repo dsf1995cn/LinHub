@@ -41,6 +41,7 @@
   - [Typora](https://typora.io/#linux)	
 
 ### PPA
+
 - neofetch 
   - sudo add-apt-repository ppa:dawidd0811/neofetch
 - telegram
@@ -58,6 +59,6 @@
 - Nixnote
   - sudo add-apt-repository ppa:nixnote/nixnote2-daily
 - Libreoffice
-  - sudo add-apt-repository ppa:libreoffice/ppa
+  - sudo add-apt-repository ppa:libreoffice/ppa
 - Elementary
-  - sudo add-apt-repository ppa:elementary-os/daily
+  - sudo add-apt-repository ppa:elementary-os/daily
