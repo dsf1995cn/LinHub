@@ -62,3 +62,5 @@
   - sudo add-apt-repository ppa:libreoffice/ppa
 - Elementary
   - sudo add-apt-repository ppa:elementary-os/daily
+- Vim
+  - sudo add-apt-repository ppa:jonathonf/vim
