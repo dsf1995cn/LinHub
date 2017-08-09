@@ -16,7 +16,8 @@
 
   - [eclipse](https://www.eclipse.org/downloads/eclipse-packages/)
   - [idea](https://www.jetbrains.com/idea/?fromMenu)
-- C# IDE:[rider](https://www.jetbrains.com/rider/?fromMenu)
+- C# IDE:
+  - [rider](https://www.jetbrains.com/rider/?fromMenu)
 - 数据库:
 
   -  [MySQL](https://dev.mysql.com/downloads/mysql/)
@@ -27,8 +28,8 @@
   -  [SQL Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-2017)
 - Qt套件:
   - [qt creater](https://www.qt.io/download-open-source/#section-2)
-- 视频播放器
-  - [SMPlayer](https://software.opensuse.org/download.html?project=home%3Asmplayerdev&package=smplayer)
+- 视频播放器：
+  - [SMPlayer](https://software.opensuse.org/download.html?project=home%3Asmplayerdev&package=smplayer)
 
 ### 办公工具
 
