@@ -27,7 +27,8 @@
   -  [SQL Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-2017)
 - Qt套件:
   - [qt creater](https://www.qt.io/download-open-source/#section-2)
-
+- 视频播放器
+  - [SMPlayer](https://software.opensuse.org/download.html?project=home%3Asmplayerdev&package=smplayer)
 
 ### 办公工具
 
