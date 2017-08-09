@@ -2,24 +2,20 @@
 
 - WebServer:
   -  [tomcat](http://tomcat.apache.org/download-90.cgi)
-
-
 - 编辑器
-
   - [VIM](https://github.com/ma6174/vim)
     - wget -qO- https://raw.github.com/ma6174/vim/master/setup.sh | sh -x
   - [VScode](https://code.visualstudio.com/Download)
 - Android IDE: 
   - [android studio](https://developer.android.com/studio/index.html#downloads)
-- C/C++ IDE: [clion](https://www.jetbrains.com/clion/)
+- C/C++ IDE: 
+  - [clion](https://www.jetbrains.com/clion/)
 - Java IDE:
-
   - [eclipse](https://www.eclipse.org/downloads/eclipse-packages/)
   - [idea](https://www.jetbrains.com/idea/?fromMenu)
 - C# IDE:
   - [rider](https://www.jetbrains.com/rider/?fromMenu)
 - 数据库:
-
   -  [MySQL](https://dev.mysql.com/downloads/mysql/)
       - sudo apt-get install mysql-server mysql-client
   -  [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
