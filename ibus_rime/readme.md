@@ -22,8 +22,8 @@ patch:
     - schema: cangjie5_express     # 倉頡 快打模式  
     - schema: quick5               # 速成  
     - schema: wubi86               # 五笔 86  
-    - schema: wubi_pinyin          # 五笔拼音混合輸入  
-  	- schema: double_pinyin        # 自然碼雙拼  
+    - schema: wubi_pinyin          # 五笔拼音混合輸入 
+    - schema: double_pinyin        # 自然碼雙拼  
     - schema: double_pinyin_mspy   # 微軟雙拼  
     - schema: double_pinyin_abc    # 智能 ABC 雙拼  
     - schema: double_pinyin_flypy  # 小鶴雙拼  `
