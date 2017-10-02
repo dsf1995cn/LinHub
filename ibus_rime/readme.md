@@ -1,4 +1,4 @@
-### (官方配置网盘)[http://flypy.ys168.com/]
+### [官方配置网盘](http://flypy.ys168.com/)
 ### ibus-rime双拼配置
 
 将双拼方案保存在`~/.config/ibus/rime/`目录下，并在default.custom.yaml中添加：
