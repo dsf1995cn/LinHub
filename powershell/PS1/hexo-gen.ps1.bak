@@ -1,0 +1,9 @@
+D:;
+cd Hexo;
+echo [1/3]cmd:hexo clean;
+hexo clean;
+echo [2/3]cmd:hexo generate;
+hexo g;
+echo [3/3]cmd:hexo deploy;
+hexo d;
+echo []complete all successfully!
