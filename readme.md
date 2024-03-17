@@ -6,7 +6,7 @@
 
 #### Jellyfin
 
-```
+```shell
 #安装Jellyfin
 docker run -d \
     --restart=always \
@@ -24,7 +24,7 @@ docker run -d \
 
 #### Navidrome
 
-```
+```shell
 docker run -d \
 	--name navidrome \
 	--restart=unless-stopped \
@@ -35,3 +35,29 @@ docker run -d \
 	-e ND_LOGLEVEL=info \
 	deluan/navidrome:latest
 ```
+
+#### Emby
+
+```shell
+docker run \
+--network=bridge \
+-p '28096:8096' \
+-p '28920:8920' \
+-p '21900:1900/udp' \
+-p '27359:7359/udp' \
+-v /mnt/disk1/appdata/emby/config:/config \
+-v /mnt/disk1/appdata/emby/data:/data \
+-v /mnt/share_media_music:/meida \
+-e TZ="Asia/Shanghai" \
+--device /dev/dri:/dev/dri \
+-e UID=0 \
+-e GID=0 \
+-e GIDLIST=0 \
+--restart always \
+-e HTTP_PROXY="http://192.168.31.221:7890" \
+-e HTTPS_PROXY="http://192.168.31.221:7890" \
+--hostname emby-lxc \
+--name emby \
+-d lovechen/embyserver
+```
+
